@@ -19,7 +19,7 @@ const Neal = {
     favoriteHobby: "reading",
  }
 
- const Bity = {
+ const Bitsy = {
     favoriteTreat: "steak",
     favoriteColor: "gray",
     favoriteHobby: "barking",
